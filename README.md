@@ -1,4 +1,4 @@
-# 🧠 Ejercicios de Lógica de Programación – Nivel Intermedio en Java
+# 🧠 Ejercicios de Lógica de Programación – Nivel Intermedio en Java (ciclos y condicionales)
 
 Este documento contiene 10 ejercicios diseñados para desarrollar habilidades en el manejo de **ciclos y condicionales en Java**, sin utilizar arreglos, métodos, objetos ni estructuras avanzadas.
 
