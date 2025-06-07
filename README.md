@@ -12,7 +12,7 @@ Sigue estos pasos para resolver y entregar los ejercicios:
 2. **Clona tu repositorio forkeado**: en tu computador
 3. **Crea una nueva rama con tu nombre completo**: Por ejemplo: git checkout -b JaimeAlbertoZapataValencia
 4. **Desarrolla el ejercicio en un archivo .java**: Crear un nuevo archivo que se llame como el ejercicio que seleccione
-5. **Haz commit y push de tus cambios**: git add ., git commit -m "Resuelto ejercicio 01: Simulador de recarga de celular", git push origin tu rama
+5. **Haz commit y push de tus cambios**: git add . , git commit -m "Resuelto ejercicio 01: Simulador de recarga de celular", git push origin tu rama
 6. **Ir a github y crear la solicitud de pull request**
 
 ## 📋 Lista de Ejercicios
